@@ -1,0 +1,6 @@
+{
+    "yaml.schemas": {
+        "file:///Users/jethwakeval/.vscode/extensions/atlassian.atlascode-2.10.11/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+        "https://json.schemastore.org/pubspec.json": "file:///Users/jethwakeval/Desktop/sachin/flutter/expenses_app/pubspec.yaml"
+    }
+}
